@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/victara/.dotnet/store/|arch|/|tfm|",
+      "/home/victara/.nuget/packages"
+    ]
+  }
+}
